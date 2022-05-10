@@ -1,7 +1,5 @@
 # CAD conversion script - written in Python 3.6.
 # FreeCad version 0.18 has been used.
-# Reference: freecad_convert/freecad_convert.py at 96c416f4bf3f317fc73701400864b5f2741e19e0 · faerietree/freecad_convert. (n.d.). Retrieved December 26, 2020, 
-# from https://github.com/faerietree/freecad_convert/blob/96c416f4bf3f317fc73701400864b5f2741e19e0/freecad_convert.py
 
 FREECAD_PATH = 'C:\\Program Files\\FreeCAD 0.18\\bin'  # path to the FreeCAD.pyd file
 
